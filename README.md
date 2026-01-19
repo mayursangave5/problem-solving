@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mayursangave5/problem-solving/tree/master/0001-two-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayursangave5/problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Bit Manipulation
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayursangave5/problem-solving/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mayursangave5/problem-solving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
