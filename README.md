@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mayursangave5/problem-solving/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/mayursangave5/problem-solving/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -28,4 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayursangave5/problem-solving/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mayursangave5/problem-solving/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/mayursangave5/problem-solving/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
