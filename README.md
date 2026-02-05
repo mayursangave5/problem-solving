@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mayursangave5/problem-solving/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mayursangave5/problem-solving/tree/master/0015-3sum) |
+| [0055-jump-game](https://github.com/mayursangave5/problem-solving/tree/master/0055-jump-game) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayursangave5/problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Bit Manipulation
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mayursangave5/problem-solving/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mayursangave5/problem-solving/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mayursangave5/problem-solving/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
