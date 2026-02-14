@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mayursangave5/problem-solving/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mayursangave5/problem-solving/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/mayursangave5/problem-solving/tree/master/0055-jump-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mayursangave5/problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayursangave5/problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mayursangave5/problem-solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Bit Manipulation
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mayursangave5/problem-solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mayursangave5/problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
