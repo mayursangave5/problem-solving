@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/mayursangave5/problem-solving/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayursangave5/problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Linked List
 |  |
