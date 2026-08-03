@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mayursangave5/problem-solving/tree/master/0055-jump-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayursangave5/problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayursangave5/problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1480-running-sum-of-1d-array](https://github.com/mayursangave5/problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mayursangave5/problem-solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Bit Manipulation
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayursangave5/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/mayursangave5/problem-solving/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
