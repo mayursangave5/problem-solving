@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mayursangave5/problem-solving/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayursangave5/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mayursangave5/problem-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0905-sort-array-by-parity](https://github.com/mayursangave5/problem-solving/tree/master/0905-sort-array-by-parity) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mayursangave5/problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1480-running-sum-of-1d-array](https://github.com/mayursangave5/problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mayursangave5/problem-solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mayursangave5/problem-solving/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mayursangave5/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0905-sort-array-by-parity](https://github.com/mayursangave5/problem-solving/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mayursangave5/problem-solving/tree/master/0015-3sum) |
+| [0905-sort-array-by-parity](https://github.com/mayursangave5/problem-solving/tree/master/0905-sort-array-by-parity) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mayursangave5/problem-solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
 |  |
